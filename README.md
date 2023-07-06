@@ -15,5 +15,5 @@ npm install readline-sync</code>
 
 how to run?
 
-node yt.js
+<code>node yt.js</code>
 
