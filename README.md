@@ -7,8 +7,7 @@ my own web-scraper!
 
 how to install?
 
-//clone this repo//
-
+<code>git clone https://github.com/RayTheCunnyLord/Web-Scraping/tree/main</code>
 <code>npm install puppeteer</code> <br>
 <code>npm install readline-sync</code>
 
