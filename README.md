@@ -9,12 +9,8 @@ how to install?
 
 //clone this repo//
 
-<code>
-    
-npm install puppeteer
-npm install readline-sync
-
-</code>
+<code>npm install puppeteer
+npm install readline-sync</code>
 
 
 how to run?
