@@ -10,8 +10,10 @@ how to install?
 //clone this repo//
 
 <code>
+    
 npm install puppeteer
 npm install readline-sync
+
 </code>
 
 
